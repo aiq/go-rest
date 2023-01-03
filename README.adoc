@@ -1,0 +1,5 @@
+= go-rest
+
+Simple util library to develop REST-Clients rapidly for 96,2% of the cases.
+
+Check the demos in this repository for a better understanding.
